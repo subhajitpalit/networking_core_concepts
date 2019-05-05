@@ -1,0 +1,4 @@
+https://www.ece.uvic.ca/~itraore/elec567-13/notes/dist-03-4.pdf
+https://www.pluralsight.com/blog/it-ops/networking-basics-tcp-udp-tcpip-osi-models
+https://www.diffen.com/difference/TCP_vs_UDP
+https://www.restapitutorial.com/httpstatuscodes.html
